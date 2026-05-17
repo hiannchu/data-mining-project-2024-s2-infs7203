@@ -2,7 +2,6 @@
 # Data Mining Project: High-Dimensional Classification & Pipeline
 
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Score](https://img.shields.io/badge/Final--Grade-19.5%20%2F%2020-orange)
 
 ## 📌 Overview
